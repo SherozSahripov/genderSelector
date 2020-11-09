@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txt_text.Text" xml:space="preserve">
+    <value>Geleceğin Parçacık Çarpıştırıcıları
+Salim Oğur Avrupa Nükleer Araştırmalar Merkezi (CERN)’nin 26.7 kilometre uzunluğundaki Büyük Hadron Çarpıştırıcısı (LHC) yetmiyor olacak ki CERN, 100 kilometrelik yeni bir parçacık çarpıştırıcısının tasarımına başladı. Neden böylesine uzun yeni bir parçacık çarpıştırıcısına gerek var ki? Bir parçacık çarpıştırıcısı ne işe yarar? Peki ya dünyanın diğer ülkeleri ne yapacak? Yükselen güç Çin bu işlere girişecek mi? ABD ve Rusya bu alanlardan çekildi mi? Sırasıyla Avrupa’dan Uzak Doğu’ya büyük parçacık çarpıştırıcısı ve parçacık fiziği projelerine değineceğiz bu yazıda. Ama tabi öncelikle, neden parçacık çarpıştırdığımızı konuşacağız. 
+
+ 
+Kapak Görseli: CERN’in 26.7 kilometrelik Büyük Hadron Çarpıştırıcısı’nda iki proton demetinin birbirine girdiği dedektörlerden CMS (Sıkışık Müon Solenoidi). Fotoğrafta, Higgs bozonuyla Nobel Fizik Ödülünü kazanan Peter Higgs’i görüyoruz.
+
+Parçacık Çarpıştırmak
+
+Bu çarpıştırıcı işini anlamak için 2400 yıl öncelerinden Demokritos’un atom felsefesine değinmek lazım. Örneğin, domatesi ince dilimlere böldüğümüzü düşünelim; hatta daha ince, hatta daha daha ince parçalara bölelim, en sonunda bıçakla bölemeyeceğimiz küçüklükte bir şey(ler)e erişeceğiz. Bu şimdilik bölemediğimiz şeye, Yunanca bölünemez anlamına gelen atom diyelim. Bıçakla kesemesek de modern fizik sayesinde biliyoruz ki atom, merkezinde inanılmaz yoğun (çok küçük ve küçük olmasının sebebi de kendini içine doğru çok fazla çekebilmesi) bir çekirdek  ve çekirdeğin uzaktan uzaktan etrafında dolanan elektronlardan oluşuyor. Şöyle ki, atomun çekirdeği İstanbul’un Taksim Meydanı kadarsa elektronlar büyük olasılıkla Hatay civarındaki uzaklıklarda takılıyorlardır (evet, elektronun yerini net olarak bilemezsiniz ve evet 100 metre yarı çapındaysa Taksim Meydanı, elektron yaklaşık 10,000 kat uzaklığında bir yerde olmalı).
+
+Aslında atomlar da birbirine dokunamazlar; hatta şöyle söylemeliyim, atom dediğiniz şey kesin çizgilerle çizilmiş bir küre vesaire de değil, bu sebeple atomlar birbirlerine itmedikleri miktarda yakınlaşabilirler. Atomlardan oluşan siz insanoğlu; elinizde bıçağı tuttuğunuzda aslında sizin elektronlarınız bıçaktaki elektronları itiyor; yer çekimi aşağı doğru çekiyor ve siz bıçağı kavrarsanız da kuvvet dengeye geliyor. Ayrıca bıçağın domatesi kesme sebebi, bıçağın uyguladığı basınçtır (basınç: birim alana uygulanan kuvvet: P=F/A; yani bıçağı daha keskin yapmak, alanı azaltmak demek; böylece domatese aynı kuvvet uygulasanız dahi daha fazla kesebiliyorsunuz). Atomlar bir araya geleceklerse bağ kurarlar (bkz. lise kimya kitabı) ve bu bağları yapıp bozmak için ısıtmanız, basınç uygulamanız gibi her gün yaptığınız şeyi yapabilirsiniz. Kısaca atoma dokunamazsınız, atomun dış yüzeyindeki elektronlar birbirlerini itmedikleri miktara kadar bir şeye yaklaşabilirsiniz sadece…
+
+Konumuza geri dönecek olursak, temel parçacıkları, iki çekirdeği veya en küçük çekirdek olan tek başına bir protonu başka bir protonla çarpıştırmak demek, bu iki protonun birbirinin yapısını bozacak kadar birbirine yaklaştırmak demek. Çarpıştırıcı tasarımları ise: daha güçlü bir şekilde birbirlerine yaklaştırıp daha küçük bir alanda birbirleriyle etkileştirmeyi hedefliyor.
+
+
+Resim 1: Evrendeki her şey legolardan oluşuyor diyelim. Dağı, taşı, aracı, yatı, katı veya canlıyı derinlemesine anlayabilmek için onların yapı taşı olan legoları anlamalıyım. Evi veya herhangi bir cismi en küçük yapı taşı olan legolarına kadar bölebilirim, peki lego gerçekten de bölebileceğim en küçük yapı taşı mı? Lego, bu resimde en küçük yapı taşı gibi görünse de, aslında legoya yeterince kuvvet uygularsanız onu da parçalayabilirsiniz. Bu “yapı taşı” olan legolara, eskiden bölünemez anlamına gelen Atom diyorduk. Şimdilerde parçacık fiziği için legolar; atomdan daha küçük olan parçacıklar demek, örneğin: elektronlar, kuarklar, nötrinolar…
+
+Peki neden çarpıştırıyoruz; neden atomu kendi halinde, küçük dağları yerlerinde bırakmıyoruz? Çünkü evren gerçekten yoktan mı var oldu ve bu yok her ne demekse onu anlamak için. Şöyle ki, aslında bu koskocaman evren, farklı renkte ve şekilde legolardan oluşuyor. Eğer bir legoyu ele alıp ya bu lego parçalanamaz mı, çok kuvvet -enerji- uygulasam birbirlerine çok hızlı çarpıştırsam legonun altında bir şey bulamaz mıyım derseniz; yanıtımız Lisa Meitner ve A. Einstein’dan bu yana: evet! Lego - yani atom - parçalanabilecek bir şey ve atomun altında daha küçüğe doğru ilerlediğimizde daha da küçük bir şeyin var olduğunu ve daha küçük bir şeyin çok daha büyük bir enerjiyle kendini koruduğunu görüyoruz. O zaman daha daha küçük bir parçacığı daha daha büyük büyük bir enerjiyle çarpıştırırsam daha daha daha küçük bir şeye, yani belki de yok denebilecek kadar küçük bir parçacığa erişebilirim. (Şöyle düşünün bir ev var; ev tuğladan oluşuyor, tuğla silisyum atomlarından, silisyum atomu protonlardan, protonlar ise kuarklardan, peki ya kuarklar?). O zaman evreni yani en büyüğü ve onun varoluşunu anlamak için yok denilebilecek kadar küçük bir şeyi var etmeli ve onu anlamalıyım. Sonuç olarak, çok daha güçlü enerjide ve(ya) çok daha küçük parçacıkları çok daha küçük alanlarda çarpıştırmalıyım. İşte bu yüzden daha büyük ve daha güçlü çarpıştırıcılara ihtiyacımız var.  
+
+Avrupa
+
+Halihazırda dünyanın en büyük ve en yüksek enerjili makinesi olan LHC yakın gelecekte iki iyileştirmeden geçecek: saniyede 10 kat daha fazla sayıda çarpışma ve ardından aşama aşama daha yüksek çarpışma enerjisine erişecek: planlanan 14 Tera elektron Volt (tera trilyon demek; elektron volt ise, yükü bir elektron kadar olan parçacığa 1 Volt enerji kazandırmak demek); eğer güç üreteçleri ve mıknatıs teknolojisi ilerlerlerse 14 TeV’in üzerine de çıkılabilir. Yüksek Işınlıklı (Hi-Lumi) ve Yüksek Enerjili (HE-LHC) Büyük Hadron Çarpıştırıcısı şu aralar CERN’in ana gündem maddesi; ilki uygulama aşamasında, ikincisi tasarım aşamasında [1].
+
+LHC, bir hadron çarpıştırıcısı yani, proton veya kurşun gibi ağır iyonları (iyon: elektron eklenmiş veya elektronları koparılmış atom) çarpıştırabiliyor. Bunun dezavantajı: hadronlar temel parçacıklar olmadıkları, yani alt yapıları olduğu için, çarpışma sonucu parçalandıklarında çok fazla şeye bölünmeleri; avantajları ise: ağır parçacıklar olduklarından yörüngelerinden saptırdığınızda elektromanyetik ışımayla fazla enerji kaybetmemeleri. Yani mıknatıslarınız hadronları dairesel makinenin içinde yönlendirip tutabildiği sürece parçacıkların enerjilerini her turladıklarında artırabilirsiniz (LHC proton demeti ışık hızıyla hareket ettiği için 26.7 km’lik halkanın etrafında her saniye 11 bin tur atıyor, ve her turda milyonlarca elektron Volt kazanıyor) ama çarpışma sonucu oluşan şey: kıymalı türlü tadında bir yemek ve bu yemekten sadece kıymayı seçmek imkansız olmasa da zorlu bir süreç (detaylı açıklama için bkz. Resim 2).     
+
+
+
+Resim 2: CERN’de çarpışmaların gerçekleştiği algıçlardan (dedektörlerden) biri olan ALICE’in kaydettiği bir kurşun iyonu-proton çarpışması örneği. Her renk bir parçacığın silindirik algıçta oluşturduğu bir gidişizi. Kıymalı türlü örneğine dönecek olursak sadece kıymayı yemek istiyoruz; yani bu veride, örneğin sadece mor çizgiler sizin teorinizin işine yarayan bir parçacığın gidişizi olsun, ama gerisi de aslında pişirdiğiniz toplam yemek miktarını (enerjinin korunumu) ve çeşniyi (çeşitli parçacık fiziği korunum yasaları) belirlemede ihtiyacınız olan besinler, bu sebeple hadronların çarpışma sonuçlarında oluşan parçacıkları analiz etmek elektron-pozitron gibi hafif parçacıkların çarpışmalarını analiz etmekten zor.   
+
+
+
+Resim 3: CLIC toplamda 50 km’lik bir çarpıştırıcı olacak ve kurulması planlanan konumu görünmekte (tabi yer seviyesinin 50-100 metre altına). Fransa-İsviçre arasında kalan Jura Dağları’na paralel gitmesi planlanıyor. [2]
+
+CLIC (Türkçesi: Sıkışık Doğrusal Çarpıştırıcı); CERN’in yani Avrupa’nın bir diğer tasarım aşamasındaki makinesi: 50 km’lik doğrusal bir elektron-pozitron çarpıştırıcısı (pozitron: elektronun karşıt parçacığı; anti elektron). CLIC, tasarımcılarından Hermann Schmikler’in deyişiyle, Mars’tan ve Dünya’dan birer askerin aynı anda kurşun sıktıklarında tam iki gezegenin ortasında bu iki kurşunun birbirini vurması seviyesinde bir hassasiyet hedefliyor. Bu proje, Avrupa’ya radyo frekansı ve hassas hizalama ve işleme konularında bayağı mesafe kat ettirdi. Hayata geçebilmesi için gereken: Çok kısa mesafede çok yüksek hızlandırma enerjisi (sıkışık olabilmesi için şartı), bu halen gelişme aşamasında (hedeflenen metrede parçacıklara 100 Milyon elektron Volt enerji kazandırmak). Tabi böyle bir enerjiyi parçacık hızlandırıcısına verebilmek için, ana hızlandırıcının yanına besleyici görevi gören sürücü bir hızlandırıcı daha gerekiyor. Avantaj: doğrusal olduğu için hafif parçacık olan elektron ve pozitronlar bükülmeyip düz ilerledikleri için ışıyarak fazla enerji kaybetmeyecek. Çok yüksek enerjileri TeV seviyesine kadar çıkabilecek, ama az parçacık çarpıştırabilecek (sıkışık yani 12 GHz gibi yüksek bir frekansta parçacıkları hızlandırdığı için). Dezavantaj: doğrusal makine olduğu için kaynaktan çıkan parçacık sadece düz ilerleyebilecek ve yer küreden veya herhangi bir sebepten doğrusal yörüngesinden çıkan parçacık kaybolup gidecek.  CLIC, CERN’in LHC’nin ardından yapmaya düşündüğü makinelerden biri.
+
+Diğeri:
+
+FCC (Geleceğin Dairesel Çarpıştırıcısı); kendisi 100 km’lik Türkiye’nin dahil olduğu 27 ülkelik bir işbirliğiyle tasarlanan bir makine [3]. Yerin ve Cenevre Gölü’nün 200-300 metre altından; bir tarafından Alpler, öteki taraftan Jura Dağları’nın arasında kalan Fransa-İsviçre arasındaki alana sığabilecek en büyük makine. 100 km’lik dairesel tünel zamanla 2-3 farklı makineyi barındıracak.  FCC’nin ilk makinesi: Elektron pozitron çarpıştırıcısı; gelmiş geçmiş en yüksek sayıda anlık çarpışmayı hedefleyen tasarım;  Higgs bozonu ve üst-kuark gibi bulunan parçacıkların gözlem hassasiyetlerini artırıp, bu bulunan parçacıkların arasında herhangi bir bulunmamış parçacığın gözden kaçmadığından emin olacak (türlüye dönecek olursak kıymanın hangi çeşit etten ve ne kadar yağlı olduğuna ve ayrıca kıymalı türlünün suyunda kıyma kalmış mı, diye bakacak). Dezavantaj: Dairesel olduğundan elektron ve pozitronlar her turda onlara verdiğimiz enerjinin bir kısmını kaybedecekler, güç besleyiciler hem bu kaybı kapatmalı hem de demetin enerjisini artırmaya devam etmeli, bu ihtiyaç günümüz Süper-İletken Radyo Frekansı teknolojisiyle sağlanabilir.  
+
+
+
+Resim 4: FCC (Geleceğin Dairesel Çarpıştırıcısı)’nın muhtemel yeri mavi daire ile gösterilmiş. Siyah dairelerin büyük olanı 26.7 km’lik LHC, küçük olanları LHC’yi besleyen 7 ve 0.6 km’lik Artırıcı (Booster) hızlandırıcılar.  Fotoğraf, Fransa’nın Jura Dağı’ndan, Alplere doğru çekilmiş.
+
+İkinci makine: Hadron çarpıştırıcısı: İlk makinenin yaklaşık 18 yıl çalışıp ardından 100 km’lik tünelden çıkarılıp yerine konacak keşif makinesi. En yüksek çarpışma enerjisini elinde bulunduran LHC’den 8 kat daha yüksek çarpışma enerjisine erişecek olan bu makine; bir buluş makinesi olacak. Yeni parçacıkları gözlemleme kabiliyeti açısından CERN’in ve parçacık fiziğinin tabir-i caizse yeni amiral gemisi. Avantaj: Inanılmaz güçlü bir demete sahip ve çok yüksek enerjilere erişecek. Dezavantaj: Bu çok güçlü demeti hızlandırıcının içinde dolandırmak ve tutmak için 16 Tesla’lık an itibariyle daha ulaşılamamış Süper İletken mıknatıslara ihtiyacı var. Ama bu mıknatıslar, materyal biliminin yakın gelecekte erişebileceği ama pahalı olması kaçınılmaz bir teknoloji. An itibariyle LHC 8,3 Tesla’lık mıknatıslara sahip  ve Yüksek Işınımlı Hi-Lumi LHC için ise yakın zamanda 11 T’lık mıknatılar devreye konulacak. Bu süperiletken mıknatıslar aslında Doğuyla Batının buluştuğu bir füzyon projesi (ITER) için de hayati önem taşıyor.
+
+Fransa’nın ev sahipliğinde Doğu-Batı Ortaklığı  
+
+ITER projesi (Türkçe açılımı: Uluslararası Deneysel Termonükleer Reaktörü; ayrıca iter, Latince “yol” demek), Avrupa Birliği, ABD, Çin, Hindistan, Japonya, Kore ve Rusya’yı Dünya’nın en büyük/güçlü füzyon makinesini kurmak için bir araya getiren ortak bir “yol” [4]. Füzyon, örneğin hidrojen atomlarını birleştirip helyum yaratan tepkime, yani Güneş’imizin Güneş (yıldız) olma sebebi.
+
+
+
+Video 1: ITER projesi. Özetle, simit şeklindeki Toroid mıknatısla parçacıkları bir arada tutan vakumlanmış bir reaktöre hidrojen gazı gönderiyoruz. Reaktörün içi olağanüstü sıcak ve yüksek basınçlı olduğundan hidrojen elektronlarını kaybediyor ve oluşan elektron-proton-iyon çorbası ısınmaya devam edip plazma haline geliyor. Parçacıklar ısındıkça enerjileri artmaya devam ediyor, bu artan enerji aynı kutupların birbirini itmesini sönümlendiriyor. Sonuç: protonlar birbirlerine yaklaşıp kendi aralarında birleşip daha büyük bir atom oluşturup çok çok güçlü bir enerji açığa çıkartıyor.
+
+Avantaj: Proje, 50 MW güç harcayıp füzyonu tetikleyip; 500 MW enerji çıkarmayı hedefliyor. Amiyane tabirle 1 ver, 10 al. Proje gerçekleşirse Dünya’nın enerji ihtiyacı fazlasıyla bunlarla karşılanacak, herkesin kendi küçük güneşi olacak. Dezavantaj: Böyle bir güce ve ısıya dayanabilmesi için materyal biliminin çok ilerlemesi lazım, böylesine bir reaktör gerçekten de ticari seviyeye indirgeyip, vadettiklerini elde etmesi uzun bir AR-GE gerektiriyor.
+
+Çin
+
+Bilim platformuna son yıllarda inanılmaz hızlı bir giriş yapan Çin, tek başına 50 veya 70 km’lik FCC’nin benzeri bir projeyle (CepC) ortaya çıktı [5]. Aslında, Çin 2012’de 50 km’lik çarpıştırıcı yapacağını söyledi; CERN 2014’te 100 km’lik FCC’nin tasarımına başladı, Çin 2016’nın sonunda 100 km’lik çarpıştırıcının tasarımına geçebileceğinin sinyalini verdi. Çin bu makineyle elde edeceği AR-GE ve bilimin yeni merkezi olma hedefini kesinlikle güçlendirecek. FCC’ye oranla en büyük jokerleri tartışmasız Çin’in çok ucuz ve materyal bakımından zengin olması. Avantaj: 50 km’lik hızlandırıcının yapımına 2021’de başlamayı planlıyor, bu parçacık fiziğinde bir alternatif merkez yaratabilir. Dezavantaj:  “Şimdilik” CERN’in deneyimi ve alandaki liderliğine sahip değiller. Yine de, Çin’in görünür gelecek hedeflerine çok uygun bir makine.
+
+
+
+Resim 5: Çin’in olası çarpıştırıcıları koymayı planladığı yerleşke. Beijing (Pekin) yakınlarındaki bölgede, şimdilerde Çin’in benimsediği FCC gibi 100 km’lik makineyi de buraya kurmaları olası.  
+
+Japonya
+
+Çin’in deyişiyle Güneş’in doğduğu ülke (japon=nippon’un kelime anlamı), hızlandırıcı konusunda da sınırları zorluyor. KEKB, 3 km’lik bir elektron-pozitron çarpıştırıcısı, ama kendisi dünyanın en yüksek ışınımlı (birim zamanda en fazla çarpışmaya sahip) makinesi. KEKB’nin güncellenip 40 kat daha fazla çarpışma yaratacağı yeni amiral gemisi SuperKEKB şimdilerde yerine konmaya ve denenmeye başlandı [6].
+
+
+
+Resim 6: Sol tarafta 3 km’lik SuperKEKB halkasını görüyorsunuz, sağ tarafta çarpışmaları kaydeden Belle Dedektörünü. (Bu fotoğrafta çıkmasa da Belle’in sol tarafında Türkiye’nin de bayrağı var :) )
+
+Japonya’nın ev sahipliğinde ILC
+
+ILC (Uluslararası Doğrusal Çarpıştırıcı) Japonya’da, Avrupa ve ABD’nin de ortaklığı ile kurulması planlanan 30 veya 50 km’lik süperiletken elektron-pozitron çarpıştırıcısı [7]. CLIC’e benzer artı ve eksilere sahip olsa da CLIC’ten 1-2 adım daha gerçekçi bir makine. Öncelikle bir hızlandırıcıyı besleyen bir parçacık hızlandırıcısına ihtiyacı yok, ayrıca erişilmesi zaman alacak parametrelere sahip değil. Ama maliyet konusunda makinenin süperiletken olması biraz düşündürücü.
+
+ABD ve Rusya
+
+İki ülke de  aslında bu projelere ev sahipliği yapmasa da tasarımda ve üretimde çok ciddi katkılar sağlıyorlar. Şöyle ki, elektron hızlandırıcıları için gereken normal iletken ama çok kararlı düzgün manyetik alana sahip mıknatıslarının ana sağlayıcısı Rusya, ve proton gibi ağır iyon hızlandırıcıları için gerekli olan süperiletken mıknatıslarının ana sağlayıcısı ise ABD. Doğal olarak bütün projelerin tasarımında yer alıp şimdilik tek başlarına büyük makineye sahip olmaya sıcak bakmıyorlar. Amerika da [8] Rusya da ayrı ayrı büyüklük olarak devasa olmasa da müon çarpıştırıcısı tasarlıyor şimdilerde. Barındırdığı fizik açısından müon çarpıştırıcısı potansiyeli yüksek çalışmalar, büyüklükleri daha netleşmese de devasa olmayacakları kesin.
+
+Bu yazının size sunulmasında katkılarından ötürü Prof. Dr. Erkcan Özcan’a çok teşekkürler.</value>
+  </data>
+</root>
